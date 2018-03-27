@@ -75,7 +75,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Cryptography
 - [X] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
-- [ ] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
+- [X] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
 - [ ] [ECDSA](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 - [ ] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 - [ ] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
