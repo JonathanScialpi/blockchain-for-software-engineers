@@ -76,11 +76,11 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 ## Cryptography
 - [X] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 - [X] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
-- [ ] [ECDSA](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+- [X] [ECDSA](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 - [X] [Cryptographic Hash Function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-- [ ] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
-- [ ] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
-- [ ] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
+- [X] [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme)
+- [X] [Merkle Trees](https://en.wikipedia.org/wiki/Merkle_tree)
+- [X] [Merkle Proofs](https://indigocore.org/documentation/v0.1.0/references/proof-of-existence/)
 
 ## Distributed Systems
 - [ ] [Consistency](https://en.wikipedia.org/wiki/Consistency_model)
