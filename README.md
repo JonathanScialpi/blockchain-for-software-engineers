@@ -88,7 +88,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [Linearizable](https://en.wikipedia.org/wiki/Linearizability)
 - [X] [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 - [X] [Fault Tolerance](https://en.wikipedia.org/wiki/Fault_tolerance)
-  - [ ] [Paxos](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29)
+  - [X] [Paxos](https://en.wikipedia.org/wiki/Paxos_%28computer_science%29)
   - [ ] [RAFT](https://en.wikipedia.org/wiki/Raft_%28computer_science%29)
 - [ ] [Time In a Distributed System](https://www.youtube.com/watch?v=BRvj8PykSc4)
 - [ ] [Tradeoff: Safety vs. Liveness](http://www.bailis.org/blog/safety-and-liveness-eventual-consistency-is-not-safe/)
