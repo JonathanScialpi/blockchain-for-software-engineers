@@ -100,8 +100,8 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [X] [Leader-Follower Replication](https://en.wikipedia.org/wiki/Replication_%28computing%29)
   - [X] [Quorum-based commits](https://en.wikipedia.org/wiki/Quorum_%28distributed_computing%29)
   - [X] [Distributed Hash Tables](https://en.wikipedia.org/wiki/Distributed_hash_table)
-    - [ ] [Chord](https://en.wikipedia.org/wiki/Chord_%28peer-to-peer%29)
-    - [ ] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
+    - [X] [Chord](https://en.wikipedia.org/wiki/Chord_%28peer-to-peer%29)
+    - [X] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
 
 ## Networking
 - [ ] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
