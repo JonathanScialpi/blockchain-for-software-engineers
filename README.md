@@ -112,12 +112,12 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [X] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
 - [x] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
   - [x] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
-  - [ ] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
+  - [X] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
 ## Economics
-- [ ] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
-  - [ ] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
-  - [ ] [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_%28game_theory%29)
+- [X] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
+  - [X] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
+  - [X] [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_%28game_theory%29)
 - [ ] [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   - [ ] [Monetary policy](https://en.wikipedia.org/wiki/Monetary_policy)
   - [ ] [Inflation](https://en.wikipedia.org/wiki/Inflation)
