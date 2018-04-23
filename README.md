@@ -120,7 +120,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [X] [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_%28game_theory%29)
 - [X] [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   - [X] [Monetary policy](https://en.wikipedia.org/wiki/Monetary_policy)
-  - [ ] [Inflation](https://en.wikipedia.org/wiki/Inflation)
+  - [X] [Inflation](https://en.wikipedia.org/wiki/Inflation)
   - [ ] [Deflation](https://en.wikipedia.org/wiki/Deflation)
   - [ ] [Velocity of Money](https://en.wikipedia.org/wiki/Velocity_of_money)
 - [ ] [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
