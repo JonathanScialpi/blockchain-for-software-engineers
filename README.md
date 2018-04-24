@@ -123,10 +123,10 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
   - [X] [Inflation](https://en.wikipedia.org/wiki/Inflation)
   - [X] [Deflation](https://en.wikipedia.org/wiki/Deflation)
   - [X] [Velocity of Money](https://en.wikipedia.org/wiki/Velocity_of_money)
-- [ ] [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
-  - [ ] [Supply and Demand Curves](https://en.wikipedia.org/wiki/Supply_and_demand)
-  - [ ] [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
-  - [ ] [Auction Theory](https://www.youtube.com/watch?v=4kWuxfVbIaU)
+- [X] [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
+  - [X] [Supply and Demand Curves](https://en.wikipedia.org/wiki/Supply_and_demand)
+  - [X] [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
+  - [X] [Auction Theory](https://www.youtube.com/watch?v=4kWuxfVbIaU)
 
 # Bitcoin
 ## Intro to Bitcoin and Blockchain
