@@ -135,12 +135,12 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [What is a distributed ledger?](https://www.coindesk.com/information/what-is-a-distributed-ledger/)
 - [X] [How Bitcoin actually works](https://youtu.be/bBC-nXj3Ng4)
 - [X] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
-- [ ] [Bitcoin Mining](https://www.youtube.com/watch?v=jXerV3f5jN8)
-- [ ] [Walk through a Bitcoin Block header](https://www.youtube.com/watch?v=gUwXCt1qkBU)
-- [ ] [Bitcoin Block Explorer](https://blockchain.info/)
-- [ ] [Bitcoin History](https://youtu.be/apYieuvnUaE)
-- [ ] [Bitcoin Forum](https://bitcointalk.org/index.php?board=1.0)
-- [ ] [Blockchains from a distributed computing perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
+- [X] [Bitcoin Mining](https://www.youtube.com/watch?v=jXerV3f5jN8)
+- [X] [Walk through a Bitcoin Block header](https://www.youtube.com/watch?v=gUwXCt1qkBU)
+- [X] [Bitcoin Block Explorer](https://blockchain.info/)
+- [X] [Bitcoin History](https://youtu.be/apYieuvnUaE)
+- [X] [Bitcoin Forum](https://bitcointalk.org/index.php?board=1.0)
+- [X] [Blockchains from a distributed computing perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
 ## Bitcoin and Blockchain Tutorials
 - [ ] [Build your own Blockchain](https://youtu.be/3aJI1ABdjQk)
