@@ -143,11 +143,11 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [Blockchains from a distributed computing perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
 ## Bitcoin and Blockchain Tutorials
-- [ ] [Build your own Blockchain](https://youtu.be/3aJI1ABdjQk)
-- [ ] [Review Blockchain Projects](https://github.com/openblockchains/awesome-blockchains)
+- [X] [Build your own Blockchain](https://youtu.be/3aJI1ABdjQk)
+- [X] [Review Blockchain Projects](https://github.com/openblockchains/awesome-blockchains)
 
 ## Advanced Bitcoin
-- [ ] [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
+- [X] [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 - [ ] [Bitcoin Forks](https://www.coindesk.com/short-guide-bitcoin-forks-explained/)
 - [ ] [Double Spends, 51% Attacks](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
 - [ ] [Replay Attacks](https://bitcointechtalk.com/how-to-protect-against-replay-attacks-7a00bd2fe52f?gi=618160cafff4)
