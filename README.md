@@ -148,12 +148,12 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Advanced Bitcoin
 - [X] [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
-- [ ] [Bitcoin Forks](https://www.coindesk.com/short-guide-bitcoin-forks-explained/)
-- [ ] [Double Spends, 51% Attacks](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
-- [ ] [Replay Attacks](https://bitcointechtalk.com/how-to-protect-against-replay-attacks-7a00bd2fe52f?gi=618160cafff4)
-- [ ] [Segregated Witness](https://en.wikipedia.org/wiki/SegWit)
-- [ ] [Bitcoin Scalability Problems](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem)
-- [ ] [Mega Bitcoin Resources List](https://lopp.net/bitcoin.html)
+- [X] [Bitcoin Forks](https://www.coindesk.com/short-guide-bitcoin-forks-explained/)
+- [X] [Double Spends, 51% Attacks](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
+- [X] [Replay Attacks](https://bitcointechtalk.com/how-to-protect-against-replay-attacks-7a00bd2fe52f?gi=618160cafff4)
+- [X] [Segregated Witness](https://en.wikipedia.org/wiki/SegWit)
+- [X] [Bitcoin Scalability Problems](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem)
+- [X] [Mega Bitcoin Resources List](https://lopp.net/bitcoin.html)
 
 ## Books
 - [ ] [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042)
