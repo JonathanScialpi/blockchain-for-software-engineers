@@ -164,17 +164,17 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 # Ethereum
 ## Intro to Ethereum
-- [ ] [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
-- [ ] [Ethereum in 25 Minutes](https://youtu.be/mCzyDLanA7s)
-- [ ] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
-- [ ] [Ethereum's Account Model](https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos)
-- [ ] [Industry Support](https://entethalliance.org/members/)
-- [ ] [The Ethreum Community Forum](https://forum.ethereum.org/)
-- [ ] [ERC-20](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
-- [ ] [The Anatomy of ERC20](https://medium.com/blockchannel/the-anatomy-of-erc20-c9e5c5ff1d02)
-- [ ] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
-- [ ] [Ethereum Wallets](https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets)
-- [ ] [A Crash Course for Mechanism Design](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
+- [X] [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [X] [Ethereum in 25 Minutes](https://youtu.be/mCzyDLanA7s)
+- [X] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
+- [X] [Ethereum's Account Model](https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos)
+- [X] [Industry Support](https://entethalliance.org/members/)
+- [X] [The Ethreum Community Forum](https://forum.ethereum.org/)
+- [X] [ERC-20](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
+- [X] [The Anatomy of ERC20](https://medium.com/blockchannel/the-anatomy-of-erc20-c9e5c5ff1d02)
+- [X] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+- [X] [Ethereum Wallets](https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets)
+- [X] [A Crash Course for Mechanism Design](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 
 ## Solidity and Smart Contracts
 - [ ] [Solidity Docs](http://solidity.readthedocs.io/en/v0.4.20/)
