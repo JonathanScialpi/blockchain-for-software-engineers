@@ -177,13 +177,13 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [A Crash Course for Mechanism Design](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 
 ## Solidity and Smart Contracts
-- [ ] [Solidity Docs](http://solidity.readthedocs.io/en/v0.4.20/)
-- [ ] [Basics of Solidity By Example](https://www.toshblocks.com/solidity/basics-solidity-example/)
-- [ ] [Learn X in Y](https://learnxinyminutes.com/docs/solidity/)
-- [ ] [Browser IDE](https://remix.ethereum.org/)
-- [ ] [BitDegree](https://solidity.bitdegree.org/)
-- [ ] [The Hitchhiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
-- [ ] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
+- [X] [Solidity Docs](http://solidity.readthedocs.io/en/v0.4.20/)
+- [X] [Basics of Solidity By Example](https://www.toshblocks.com/solidity/basics-solidity-example/)
+- [X] [Learn X in Y](https://learnxinyminutes.com/docs/solidity/)
+- [X] [Browser IDE](https://remix.ethereum.org/)
+- [X] [BitDegree](https://solidity.bitdegree.org/)
+- [X] [The Hitchhiker's Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- [X] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
 
 ## Beginner Tutorials
 - [ ] [Build Your First Blockchain Application in 5 Quick Steps](https://itnext.io/build-your-first-blockchain-application-in-5-quick-steps-89ebb96adbfe)
