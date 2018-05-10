@@ -186,7 +186,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [X] [11 Best Ethereum Development Tools](https://hackernoon.com/11-best-ethereum-development-tools-to-grow-your-stack-e782fd7156ab)
 
 ## Beginner Tutorials
-- [ ] [Build Your First Blockchain Application in 5 Quick Steps](https://itnext.io/build-your-first-blockchain-application-in-5-quick-steps-89ebb96adbfe)
+- [X] [Build Your First Blockchain Application in 5 Quick Steps](https://itnext.io/build-your-first-blockchain-application-in-5-quick-steps-89ebb96adbfe)
 - [ ] [CryptoZombies](https://cryptozombies.io/)
 - [ ] [Build Your Own Ethereum Token](https://enlight.nyc/ethereum-token)
 - [ ] [Building a Voting System](https://karl.tech/learning-solidity-part-2-voting/)
